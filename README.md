@@ -17,11 +17,11 @@
 
 ## 💎 截图
 
-![主页](https://github.com/leopold7/XHJZ/img/home.png)
+<img src="https://raw.githubusercontent.com/leopold7/XHJZ/main/img/home.png" width = "500" alt="主页" align=center />
 
-![主页](https://github.com/leopold7/XHJZ/img/statistic.png)
+<img src="https://raw.githubusercontent.com/leopold7/XHJZ/main/img/statistic.png" width = "500" alt="统计" align=center />
 
-![主页](https://github.com/leopold7/XHJZ/img/mine.png)
+<img src="https://raw.githubusercontent.com/leopold7/XHJZ/main/img/mine.png" width = "500" alt="我的" align=center />
 
-![主页](https://github.com/leopold7/XHJZ/img/AI.png)
+<img src="https://raw.githubusercontent.com/leopold7/XHJZ/main/img/AI.png" width = "500" alt="AI" align=center />
 
