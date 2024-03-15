@@ -4,8 +4,8 @@
   一款免费快速记账的APP
 </div>
 
-## 💻 下载地址
- - https://wwb.lanzouq.com/i2spu1rglq6d  密码:8fvi
+## 🔗 下载地址
+- <a href="https://wwb.lanzouq.com/i2spu1rglq6d" target="_blank">蓝奏云</a> 密码:8fvi
 
 ## 🏆 功能
 
