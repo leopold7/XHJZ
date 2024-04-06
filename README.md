@@ -6,7 +6,6 @@
 
 ## 🔗 下载地址
 - <a href="https://app.leofitz7.com" target="_blank">官网下载</a>
-- <a href="https://wwb.lanzouq.com/i2spu1rglq6d" target="_blank">蓝奏云</a> 密码:8fvi
 
 ## 🏆 功能
 
