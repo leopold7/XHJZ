@@ -20,8 +20,8 @@
 
 ## 💎 截图
 
-<img src="https://raw.githubusercontent.com/leopold7/XHJZ/main/img/home.jpg" width = "500" alt="主页" align=center />
+<img src="https://raw.githubusercontent.com/leopold7/XHJZ/main/img/home.png" width = "500" alt="主页" align=center />
 
-<img src="https://raw.githubusercontent.com/leopold7/XHJZ/main/img/statistic.jpg" width = "500" alt="统计" align=center />
+<img src="https://raw.githubusercontent.com/leopold7/XHJZ/main/img/statistic.png" width = "500" alt="统计" align=center />
 
-<img src="https://raw.githubusercontent.com/leopold7/XHJZ/main/img/mine.jpg" width = "500" alt="我的" align=center />
+<img src="https://raw.githubusercontent.com/leopold7/XHJZ/main/img/mine.png" width = "500" alt="我的" align=center />
