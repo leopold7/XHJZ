@@ -18,4 +18,4 @@
 
 ## 💎 截图
 
-<img src="https://raw.githubusercontent.com/leopold7/XHJZ/main/img/bg.png" align=center />
+<img src="https://raw.githubusercontent.com/leopold7/XHJZ/main/img/bg.jpeg" align=center />
